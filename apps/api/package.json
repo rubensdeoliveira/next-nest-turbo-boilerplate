@@ -31,7 +31,8 @@
     "tsconfig-paths": "^4.2.0",
     "@saas/eslint-config": "workspace:*",
     "@saas/prettier": "workspace:*",
-    "@saas/tsconfig": "workspace:*"
+    "@saas/tsconfig": "workspace:*",
+    "@saas/env": "workspace:*"
   },
   "prettier": "@saas/prettier",
   "eslintConfig": {
